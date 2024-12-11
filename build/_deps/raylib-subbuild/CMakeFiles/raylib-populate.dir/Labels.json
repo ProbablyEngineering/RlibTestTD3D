@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Workspace/RlibTestTD3D/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate"
+		},
+		{
+			"file" : "C:/Workspace/RlibTestTD3D/build/_deps/raylib-subbuild/CMakeFiles/e6860f4da5195a432cade05d583b18e0/raylib-populate.rule"
+		},
+		{
+			"file" : "C:/Workspace/RlibTestTD3D/build/_deps/raylib-subbuild/CMakeFiles/e6fe19fd9c0e08974df0dbdbbaceb71e/raylib-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Workspace/RlibTestTD3D/build/_deps/raylib-subbuild/CMakeFiles/da0f4f4fbc2d13084bb8298383758f63/raylib-populate-build.rule"
+		},
+		{
+			"file" : "C:/Workspace/RlibTestTD3D/build/_deps/raylib-subbuild/CMakeFiles/da0f4f4fbc2d13084bb8298383758f63/raylib-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Workspace/RlibTestTD3D/build/_deps/raylib-subbuild/CMakeFiles/da0f4f4fbc2d13084bb8298383758f63/raylib-populate-download.rule"
+		},
+		{
+			"file" : "C:/Workspace/RlibTestTD3D/build/_deps/raylib-subbuild/CMakeFiles/da0f4f4fbc2d13084bb8298383758f63/raylib-populate-install.rule"
+		},
+		{
+			"file" : "C:/Workspace/RlibTestTD3D/build/_deps/raylib-subbuild/CMakeFiles/da0f4f4fbc2d13084bb8298383758f63/raylib-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Workspace/RlibTestTD3D/build/_deps/raylib-subbuild/CMakeFiles/da0f4f4fbc2d13084bb8298383758f63/raylib-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Workspace/RlibTestTD3D/build/_deps/raylib-subbuild/CMakeFiles/da0f4f4fbc2d13084bb8298383758f63/raylib-populate-test.rule"
+		},
+		{
+			"file" : "C:/Workspace/RlibTestTD3D/build/_deps/raylib-subbuild/CMakeFiles/da0f4f4fbc2d13084bb8298383758f63/raylib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"raylib-populate"
+		],
+		"name" : "raylib-populate"
+	}
+}

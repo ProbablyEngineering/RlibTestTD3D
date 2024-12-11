@@ -1,0 +1,3 @@
+C:/Workspace/RlibTestTD3D/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
+C:/Workspace/RlibTestTD3D/build/_deps/raylib-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Workspace/RlibTestTD3D/build/_deps/raylib-subbuild/CMakeFiles/ZERO_CHECK.dir
