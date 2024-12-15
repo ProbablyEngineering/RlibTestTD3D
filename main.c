@@ -10,6 +10,27 @@ typedef struct Tower {
     uint8_t towerType;
 } Tower;
 
+Tower towers[TOWER_MAX_COUNT];
+int towerCount = 0;
+
+static void TowerInit()
+{
+    for (int i = 0; i < TOWER_MAX_COUNT; i++)
+    {
+        towers[i] = (Tower){ 0 };
+    }
+   towerCount = 0;
+}
+
+Tower* TowerGetAt(int16_t x, int16_t y) {
+    for (int i = 0; i < towerCount; i++) {
+        if (towers[i].x == x && towers[i].y == y) {
+            return &towers[i];
+        }
+    }
+    return 0;
+}
+
 int main(void)
 {
     int screenWidth, screenHeight;
